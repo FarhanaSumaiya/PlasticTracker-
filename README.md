@@ -1,4 +1,4 @@
-# PlasticTracker-
+# PlasticTracker
 PlasticTrack+ is a Python-based desktop application designed to help users monitor, analyze, and reduce their plastic usage. The project focuses on promoting environmental awareness by allowing users to track daily plastic consumption and understand their usage patterns through visual insights and reports.
 
 The application is developed using Tkinter for the graphical user interface along with ttkbootstrap to provide a modern and visually appealing design. User data is stored locally using SQLite, ensuring lightweight and efficient data management without requiring an external database server.
