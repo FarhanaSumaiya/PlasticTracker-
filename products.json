@@ -1,0 +1,50 @@
+{
+    "categories": ["Food", "Shopping", "Water", "Household"],
+    "products": [
+        {
+            "id": 1,
+            "name": "Stainless Steel Water Bottle",
+            "category": "Water",
+            "description": "750ml leak-proof bottle with insulation",
+            "price": 24.99,
+            "plastic_saved": "5 bottles/month",
+            "image": "bottle.png"
+        },
+        {
+            "id": 2,
+            "name": "Reusable Shopping Tote",
+            "category": "Shopping",
+            "description": "Large cotton tote bag with reinforced handles",
+            "price": 12.99,
+            "plastic_saved": "30 bags/year",
+            "image": "tote.png"
+        },
+        {
+            "id": 3,
+            "name": "Bamboo Cutlery Set",
+            "category": "Food",
+            "description": "Portable set with fork, knife, spoon, and straw",
+            "price": 15.49,
+            "plastic_saved": "100 utensils/year",
+            "image": "cutlery.png"
+        },
+        {
+            "id": 4,
+            "name": "Glass Food Containers",
+            "category": "Food",
+            "description": "Set of 3 airtight containers with lids",
+            "price": 29.99,
+            "plastic_saved": "50 containers/year",
+            "image": "containers.png"
+        },
+        {
+            "id": 5,
+            "name": "Beeswax Food Wraps",
+            "category": "Food",
+            "description": "Set of 3 reusable food wraps (various sizes)",
+            "price": 18.95,
+            "plastic_saved": "2 rolls of plastic wrap/month",
+            "image": "wraps.png"
+        }
+    ]
+}
